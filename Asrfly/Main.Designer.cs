@@ -46,6 +46,7 @@
             // flowLayoutPanel1
             // 
             flowLayoutPanel1.AutoScroll = true;
+            flowLayoutPanel1.BackColor = System.Drawing.SystemColors.Control;
             flowLayoutPanel1.Controls.Add(buttonHome);
             flowLayoutPanel1.Controls.Add(buttonCategory);
             flowLayoutPanel1.Controls.Add(buttonCustomers);
